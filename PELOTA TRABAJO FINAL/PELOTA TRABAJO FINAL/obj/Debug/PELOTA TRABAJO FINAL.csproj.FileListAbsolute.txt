@@ -1,0 +1,20 @@
+C:\Users\Fercho\source\repos\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\bin\Debug\PELOTA TRABAJO FINAL.exe.config
+C:\Users\Fercho\source\repos\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\bin\Debug\PELOTA TRABAJO FINAL.exe
+C:\Users\Fercho\source\repos\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\bin\Debug\PELOTA TRABAJO FINAL.pdb
+C:\Users\Fercho\source\repos\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA TRABAJO FINAL.csproj.AssemblyReference.cache
+C:\Users\Fercho\source\repos\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA_TRABAJO_FINAL.Form1.resources
+C:\Users\Fercho\source\repos\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA_TRABAJO_FINAL.Properties.Resources.resources
+C:\Users\Fercho\source\repos\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA TRABAJO FINAL.csproj.GenerateResource.cache
+C:\Users\Fercho\source\repos\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA TRABAJO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Fercho\source\repos\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA TRABAJO FINAL.exe
+C:\Users\Fercho\source\repos\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA TRABAJO FINAL.pdb
+C:\Users\alare\OneDrive\Escritorio\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\bin\Debug\PELOTA TRABAJO FINAL.exe.config
+C:\Users\alare\OneDrive\Escritorio\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\bin\Debug\PELOTA TRABAJO FINAL.exe
+C:\Users\alare\OneDrive\Escritorio\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\bin\Debug\PELOTA TRABAJO FINAL.pdb
+C:\Users\alare\OneDrive\Escritorio\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA TRABAJO FINAL.csproj.AssemblyReference.cache
+C:\Users\alare\OneDrive\Escritorio\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA_TRABAJO_FINAL.Form1.resources
+C:\Users\alare\OneDrive\Escritorio\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA_TRABAJO_FINAL.Properties.Resources.resources
+C:\Users\alare\OneDrive\Escritorio\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA TRABAJO FINAL.csproj.GenerateResource.cache
+C:\Users\alare\OneDrive\Escritorio\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA TRABAJO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\alare\OneDrive\Escritorio\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA TRABAJO FINAL.exe
+C:\Users\alare\OneDrive\Escritorio\PELOTA TRABAJO FINAL\PELOTA TRABAJO FINAL\obj\Debug\PELOTA TRABAJO FINAL.pdb
